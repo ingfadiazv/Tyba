@@ -1,0 +1,3 @@
+com\mesaj\api\pageobjects\SingUpPageObjetc.class
+com\mesaj\api\stepdefinitions\stepUpDefs.class
+CucumberTest.class
